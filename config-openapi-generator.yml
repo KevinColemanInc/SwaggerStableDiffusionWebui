@@ -1,0 +1,8 @@
+{
+  "gemName": "SwaggerStableDiffusionWebui",
+  "moduleName": "SwaggerStableDiffusionWebui",
+  "gemAuthor": "KevinColemanInc",
+  "gemHomepage": "https://github.com/KevinColemanInc/rb-swagger-stable-diffusion-webui",
+  "gemAuthorEmail": "kevin@sparkstart.io",
+  "gemVersion": "1.0.394ffa7b0a7fff3ec484bcd084e673a8b301ccc8"
+}
