@@ -6,7 +6,7 @@ This is generated ruby gem from the FastAPI OpenAPI docs hosted at `/openapi.jso
 
 ```ruby
 # Load the gem
-require 'ex'
+require 'SwaggerStableDiffusionWebui'
 config = SwaggerStableDiffusionWebui::Configuration.new
 config.host = "localhost:7860"
 api_client = SwaggerStableDiffusionWebui::ApiClient.new(config)
